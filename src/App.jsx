@@ -160,7 +160,7 @@ export default function App() {
             </div>
             <span className="notif-icon">🔔</span>
             <div className="user-profile">
-              <div className="avatar">R</div>
+              <div className="avatar">M</div>
               <div className="user-info">
                 <p>Mutiara Permatasari</p>
                 <p>Admin Analitik</p>
